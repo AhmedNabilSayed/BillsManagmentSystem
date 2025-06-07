@@ -1,0 +1,36 @@
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.deps.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.AssemblyReference.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfoInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfo.cs
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.CoreCompileInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\refint\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\ref\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.deps.json
+F:\dashmala\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.pdb
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.AssemblyReference.cache
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.GeneratedMSBuildEditorConfig.editorconfig
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfoInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.CoreCompileInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\refint\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.pdb
+F:\dashmala\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\ref\BillsEntity.dll
+E:\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.deps.json
+E:\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.dll
+E:\BillsManagmentSystem\BillsEntity\bin\Debug\net6.0\BillsEntity.pdb
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.AssemblyReference.cache
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.GeneratedMSBuildEditorConfig.editorconfig
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfoInputs.cache
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.AssemblyInfo.cs
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.csproj.CoreCompileInputs.cache
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.dll
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\refint\BillsEntity.dll
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\BillsEntity.pdb
+E:\BillsManagmentSystem\BillsEntity\obj\Debug\net6.0\ref\BillsEntity.dll

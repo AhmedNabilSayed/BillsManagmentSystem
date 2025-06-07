@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BillsManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\reports\\printpurchasebillreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\reports\\printpurchasebillreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\reports\\printsalesbillreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\reports\\printsalesbillreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\bills\\testreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\bills\\testreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|e:\\billsmanagmentsystem\\billsdal\\context\\configurations\\configurationbillheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|solutionrelative:billsdal\\context\\configurations\\configurationbillheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\sales\\testreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\sales\\testreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|e:\\billsmanagmentsystem\\billsdal\\context\\billsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|solutionrelative:billsdal\\context\\billsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|e:\\billsmanagmentsystem\\billsdal\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EF1A88-2034-4BDB-BB1A-D45921425D3B}|BillsDAL\\BillsDAL.csproj|solutionrelative:billsdal\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\reportconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\reportconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\views\\bills\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\views\\bills\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|e:\\billsmanagmentsystem\\billsmanagmentsystem\\helper\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B0B72-A475-4C40-A79E-7EDE69304CD1}|BillsManagmentSystem\\BillsManagmentSystem.csproj|solutionrelative:billsmanagmentsystem\\helper\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 410,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAvwIwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:17:26.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestReport.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\TestReport.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Bills\\TestReport.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\TestReport.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Bills\\TestReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T12:35:19.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\SalesController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAJ8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:42:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADQBAAAAYDMzMzMLwJgAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T13:20:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintSalesBillReport.cs [Design]",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Reports\\PrintSalesBillReport.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Reports\\PrintSalesBillReport.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Reports\\PrintSalesBillReport.cs [Design]",
+              "RelativeToolTip": "BillsManagmentSystem\\Reports\\PrintSalesBillReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:24:57.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintPurchaseBillReport.cs [Design]",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Reports\\PrintPurchaseBillReport.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Reports\\PrintPurchaseBillReport.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Reports\\PrintPurchaseBillReport.cs [Design]",
+              "RelativeToolTip": "BillsManagmentSystem\\Reports\\PrintPurchaseBillReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:21:20.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\BillsController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAswIoBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:18:24.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigurationBillHeader.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsDAL\\Context\\Configurations\\ConfigurationBillHeader.cs",
+              "RelativeDocumentMoniker": "BillsDAL\\Context\\Configurations\\ConfigurationBillHeader.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsDAL\\Context\\Configurations\\ConfigurationBillHeader.cs",
+              "RelativeToolTip": "BillsDAL\\Context\\Configurations\\ConfigurationBillHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:04:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppIdentityDbContextSeed.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsDAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "BillsDAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsDAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeToolTip": "BillsDAL\\Identity\\AppIdentityDbContextSeed.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:04:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\Index.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Bills\\Index.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\Index.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Bills\\Index.cshtml",
+              "ViewState": "AgIAAM0AAACAZGZmZmYkwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T10:14:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillsDbContext.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsDAL\\Context\\BillsDbContext.cs",
+              "RelativeDocumentMoniker": "BillsDAL\\Context\\BillsDbContext.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsDAL\\Context\\BillsDbContext.cs",
+              "RelativeToolTip": "BillsDAL\\Context\\BillsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:04:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestReport.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Sales\\TestReport.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Sales\\TestReport.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Sales\\TestReport.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Sales\\TestReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T11:48:46.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAANEAAAAAMDMzMzPzv9gAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T11:43:08.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportConfigController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\ReportConfigController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\ReportConfigController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\ReportConfigController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\ReportConfigController.cs",
+              "ViewState": "AgIAABEAAABgZmZmZmY4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:45:37.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Program.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Program.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAMDMzMzPzv0cAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:43:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAALEAAAAAyMzMzMwMwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:05:07.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\Update.cshtml",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Views\\Bills\\Update.cshtml",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Views\\Bills\\Update.cshtml",
+              "RelativeToolTip": "BillsManagmentSystem\\Views\\Bills\\Update.cshtml",
+              "ViewState": "AgIAAOsAAAAANDMzMzMLwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T11:16:58.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:09:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAACAmZmZmZktwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:46:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalSettings.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Helper\\GlobalSettings.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Helper\\GlobalSettings.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Helper\\GlobalSettings.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Helper\\GlobalSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:44:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "BillsManagmentSystem\\Controllers\\ItemController.cs",
+              "ToolTip": "E:\\BillsManagmentSystem\\BillsManagmentSystem\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "BillsManagmentSystem\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAFkAAAAAZmZmZmYwwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:03:27.087Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

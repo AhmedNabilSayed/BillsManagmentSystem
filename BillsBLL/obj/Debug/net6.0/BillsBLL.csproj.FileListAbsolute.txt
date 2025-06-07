@@ -1,0 +1,51 @@
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.deps.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.AssemblyReference.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfoInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfo.cs
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.CoreCompileInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.CopyComplete
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\refint\BillsBLL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\ref\BillsBLL.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.deps.json
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.pdb
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.pdb
+F:\dashmala\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.pdb
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.AssemblyReference.cache
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfoInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.CoreCompileInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.CopyComplete
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\refint\BillsBLL.dll
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.pdb
+F:\dashmala\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\ref\BillsBLL.dll
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.deps.json
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.dll
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsBLL.pdb
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.dll
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.dll
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsDAL.pdb
+E:\BillsManagmentSystem\BillsBLL\bin\Debug\net6.0\BillsEntity.pdb
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.AssemblyReference.cache
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfoInputs.cache
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.AssemblyInfo.cs
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.CoreCompileInputs.cache
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.csproj.Up2Date
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.dll
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\refint\BillsBLL.dll
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\BillsBLL.pdb
+E:\BillsManagmentSystem\BillsBLL\obj\Debug\net6.0\ref\BillsBLL.dll

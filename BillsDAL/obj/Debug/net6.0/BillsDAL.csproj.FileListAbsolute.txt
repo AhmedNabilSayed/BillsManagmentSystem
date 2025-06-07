@@ -1,0 +1,45 @@
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.deps.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.AssemblyReference.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfoInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfo.cs
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.CoreCompileInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.CopyComplete
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\refint\BillsDAL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\ref\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.deps.json
+F:\dashmala\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.pdb
+F:\dashmala\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.pdb
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.AssemblyReference.cache
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfoInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.CoreCompileInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.CopyComplete
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\refint\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.pdb
+F:\dashmala\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\ref\BillsDAL.dll
+E:\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.deps.json
+E:\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.dll
+E:\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsDAL.pdb
+E:\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.dll
+E:\BillsManagmentSystem\BillsDAL\bin\Debug\net6.0\BillsEntity.pdb
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.AssemblyReference.cache
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfoInputs.cache
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.AssemblyInfo.cs
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.CoreCompileInputs.cache
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.csproj.Up2Date
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.dll
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\refint\BillsDAL.dll
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\BillsDAL.pdb
+E:\BillsManagmentSystem\BillsDAL\obj\Debug\net6.0\ref\BillsDAL.dll
