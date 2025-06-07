@@ -1,0 +1,43 @@
+﻿@using BillsManagmentSystem.ViewModels;
+@model IEnumerable<StockViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Stock Page</h1>
+
+@if (Model?.Count() > 0)
+{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(x => x.Id)</th>
+                <th>@Html.DisplayNameFor(x => x.ItemId)</th>
+                <th>@Html.DisplayNameFor(x => x.ItemName)</th>
+                <th>@Html.DisplayNameFor(x => x.StoreId)</th>
+                <th>@Html.DisplayNameFor(x => x.StoreName)</th>
+                <th>@Html.DisplayNameFor(x => x.ItemQuantity)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.ItemId</td>
+                    <td>@item.ItemName</td>
+                    <td>@item.StoreId</td>
+                    <td>@item.StoreName</td>
+                    <td>@item.ItemQuantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h3>Stock is Empty!!</h3>
+    </div>
+}

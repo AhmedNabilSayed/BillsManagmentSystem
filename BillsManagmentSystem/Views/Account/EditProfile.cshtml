@@ -1,0 +1,44 @@
+﻿@using BillsManagmentSystem.ViewModels;
+@model UserViewModel
+@{
+    ViewData["Title"] = "EditProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="EditProfile" asp-controller="Account" enctype="multipart/form-data">
+            <img src="~/Files/Images/@Model.ImageProfile" width="100px" alt="@Model.UserName" />
+            <br />
+            <div class="form-group">
+                <label asp-for="@Model.Email" class="col-form-label"></label>
+                <input asp-for="@Model.Email" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.UserName" class="col-form-label"></label>
+                <input asp-for="@Model.UserName" class="form-control" required />
+                <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+                <input asp-for="@Model.PhoneNumber" class="form-control" required/>
+                <span asp-validation-for="@Model.PhoneNumber" class="text-danger" ></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Image" class="col-form-label"></label>
+                <input asp-for="@Model.Image" type="file"  />
+            </div>
+
+
+            <br />
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+

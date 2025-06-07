@@ -1,0 +1,43 @@
+﻿@using Demo.PL.Models;
+@model CreateUserViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="row">
+	<div class="col-12">
+		<form asp-action="Create">
+			<div class="from-group">
+				<label asp-for="@Model.Email" class="col-form-label"></label>
+				<input class="form-control" asp-for="@Model.Email" type="email" placeholder="Email" required>
+				<span asp-validation-for="@Model.Email" class="text-danger"></span>
+			</div>
+			<div class="from-group">
+				<label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+				<input class="form-control" asp-for="@Model.PhoneNumber" type="number" placeholder="PhoneNumber" required>
+				<span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+			</div>
+			<div class="from-group">
+				<label asp-for="@Model.Password" class="col-form-label"></label>
+				<input class="form-control" type="password" asp-for="@Model.Password" placeholder="Password" required>
+				<span asp-validation-for="@Model.Password" class="text-danger"></span>
+			</div>
+
+			<div class="from-group">
+				<label asp-for="@Model.ConfirmPassword" class="col-form-label"></label>
+				<input class="form-control" type="password" asp-for="@Model.ConfirmPassword" placeholder="Confirm Password" required="">
+				<span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+			</div>
+			</br>
+			<input type="submit" class="btn btn-primary" value="Create">
+		</form>
+	</div>
+</div>
+
+@section Scripts{
+	<partial name="_ValidationScriptsPartial" />
+}

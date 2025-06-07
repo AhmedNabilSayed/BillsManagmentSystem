@@ -1,0 +1,726 @@
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.staticwebassets.runtime.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.exe
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.deps.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.runtimeconfig.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Humanizer.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.AssemblyReference.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfoInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfo.cs
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.CoreCompileInputs.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cs
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.BillsManagmentSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BillsManagmentSystem.props
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BillsManagmentSystem.props
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BillsManagmentSystem.props
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\bundle\BillsManagmentSystem.styles.css
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\projectbundle\BillsManagmentSystem.bundle.scp.css
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.CopyComplete
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\refint\BillsManagmentSystem.dll
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.pdb
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.genruntimeconfig.cache
+D:\api with ahmed nasser demo\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\ref\BillsManagmentSystem.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.exe
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\AutoMapper.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Common.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Core.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Reporting.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Data.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.DataAccess.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Drawing.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Office.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.PivotGrid.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Printing.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraReports.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraReports.v23.2.Web.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Web.Reporting.v23.2.Common.Services.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Web.Resources.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExtreme.AspNet.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExtreme.AspNet.Data.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraCharts.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Charts.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.CodeParser.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.DataVisualization.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraGauges.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Pdf.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Pdf.v23.2.Drawing.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.RichEdit.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.RichEdit.v23.2.Export.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Sparkline.v23.2.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Xpo.v23.2.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Humanizer.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\MessagePack.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Build.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Common.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.CodeDom.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Private.ServiceModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Http.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Security.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Threading.AccessControl.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.pdb
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.pdb
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.pdb
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.AssemblyReference.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.Reports.PrintSalesBillReport.resources
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.GenerateResource.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfoInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.CoreCompileInputs.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cs
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.BillsManagmentSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BillsManagmentSystem.props
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BillsManagmentSystem.props
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BillsManagmentSystem.props
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.pack.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.build.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.development.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\bundle\BillsManagmentSystem.styles.css
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\projectbundle\BillsManagmentSystem.bundle.scp.css
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\refint\BillsManagmentSystem.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.pdb
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.Development.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\package-lock.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\package.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.staticwebassets.runtime.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.deps.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.runtimeconfig.json
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.pdb
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.genruntimeconfig.cache
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\ref\BillsManagmentSystem.dll
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsMan.E8B8A867.Up2Date
+F:\dashmala\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.sourcelink.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\appsettings.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\package-lock.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\package.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.staticwebassets.runtime.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.exe
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.deps.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.runtimeconfig.json
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsManagmentSystem.pdb
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\AutoMapper.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Common.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Core.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.AspNetCore.Reporting.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraCharts.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Charts.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.CodeParser.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Data.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.DataAccess.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.DataVisualization.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Drawing.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraGauges.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Office.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Pdf.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Pdf.v23.2.Drawing.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.PivotGrid.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Printing.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraReports.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.RichEdit.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.RichEdit.v23.2.Export.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Sparkline.v23.2.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.XtraReports.v23.2.Web.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Web.Reporting.v23.2.Common.Services.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Web.Resources.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExpress.Xpo.v23.2.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExtreme.AspNet.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\DevExtreme.AspNet.Data.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Humanizer.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\MessagePack.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Common.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.CodeDom.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Private.ServiceModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Http.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.ServiceModel.Security.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Threading.AccessControl.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\cs\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\de\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\es\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\fr\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\it\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ja\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ko\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pl\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\pt-BR\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\ru\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\tr\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hans\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\zh-Hant\System.Private.ServiceModel.resources.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsBLL.pdb
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsDAL.pdb
+E:\BillsManagmentSystem\BillsManagmentSystem\bin\Debug\net6.0\BillsEntity.pdb
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.AssemblyReference.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.Reports.PrintPurchaseBillReport.resources
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.Reports.PrintSalesBillReport.resources
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.GenerateResource.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfoInputs.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.AssemblyInfo.cs
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.csproj.CoreCompileInputs.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.RazorAssemblyInfo.cs
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.BillsManagmentSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.BillsManagmentSystem.props
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BillsManagmentSystem.props
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BillsManagmentSystem.props
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\bundle\BillsManagmentSystem.styles.css
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\scopedcss\projectbundle\BillsManagmentSystem.bundle.scp.css
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsMan.E8B8A867.Up2Date
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\refint\BillsManagmentSystem.dll
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.pdb
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\BillsManagmentSystem.genruntimeconfig.cache
+E:\BillsManagmentSystem\BillsManagmentSystem\obj\Debug\net6.0\ref\BillsManagmentSystem.dll

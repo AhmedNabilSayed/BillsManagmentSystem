@@ -1,0 +1,60 @@
+﻿@using BillsEntity;
+@model BillHeader
+
+@{
+    ViewData["Title"] = "Details";
+
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>OrderMaster</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            OrderCode:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BILCOD)
+        </dd>
+        <dt class="col-sm-2">
+            DateAdded:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BILDAT)
+        </dd>
+        <dt class="col-sm-2">
+            CustomerName:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Vendor.VndNam)
+        </dd>
+    </dl>
+</div>
+<div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.pro)
+            {
+                <tr>
+                    <td>@item.Item.ItmNam</td>
+                    <td>@item.ITMPRC</td>
+                    <td>@item.ITMQTY</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <div>
+        <label>Total Bill: @Model.BILPRC</label>
+    </div>
+    <a asp-action="Create">Back to List</a>
+</div>

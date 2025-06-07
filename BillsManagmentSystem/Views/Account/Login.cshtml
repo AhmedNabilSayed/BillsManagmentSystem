@@ -1,0 +1,43 @@
+﻿@using BillsManagmentSystem.ViewModels;
+@model SignInViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<section class="signup">
+    <!-- <img src="images/signup-bg.jpg" alt=""> -->
+    <div class="container">
+        <div class="signup-content">
+
+            <div asp-validation-summary="All" class="tex"></div>
+            <form asp-action="Login" id="signup-form" class="signup-form">
+                <h2 class="form-title">Login Page</h2>
+
+                <div class="form-group">
+                    <input type="email" asp-for="Email" class="form-input" id="email" placeholder="Your Email" />
+
+                </div>
+                <div class="form-group">
+                    <input type="password" asp-for="Password" class="form-input" id="password" placeholder="Password" />
+                    <span toggle="#password" class="zmdi zmdi-eye field-icon toggle-password"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="checkbox" asp-for="RememberMe" id="RememberMe" class="Rememberme" />
+                    <label for="agree-term" class="label-agree-term"><span><span></span></span>remember me <a href="#" class="term-service">Terms of service</a></label>
+                </div>
+                <div class="form-group">
+                    <input type="submit" id="submit" class="form-submit" value="Login" />
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+
+@section ValidationScriptSection
+    {
+    <partial name="_ValidationScriptsPartial" />
+
+}

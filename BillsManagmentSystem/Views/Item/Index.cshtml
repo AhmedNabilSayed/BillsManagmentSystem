@@ -1,0 +1,311 @@
+﻿@using BillsManagmentSystem.ViewModels;
+@inject SignInManager<AppUser> signInManager
+@model IEnumerable<ItemViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>All Items</h1>
+<br />
+<a class="btn btn-primary createItem ">Create</a>
+<br />
+<br />
+@*<form class="my-3">
+    <div class="row">
+        <div class="col-sm-8">
+            <input placeholder="Search By Name" name="searchValue" class="from-control" />
+        </div>
+        <div class="col-sm-4">
+            <input type="submit" value="search" class="btn btn-success btn-block" />
+        </div>
+    </div>
+</form>*@
+
+@if (Model?.Count() > 0)
+{
+    <table id="itemTable" class="table table-striped table-hover item-table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(x => x.ItmCod)</th>
+                <th>@Html.DisplayNameFor(x => x.ItmNam)</th>
+                <th>@Html.DisplayNameFor(x => x.ItmPrc)</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="@item.ItmCod" data-id="@item.ItmCod" data-name="@item.ItmNam" data-price="@item.ItmPrc">
+                    <td>@item.ItmCod</td>
+                    <td>@item.ItmNam</td>
+                    <td>@item.ItmPrc</td>
+
+                    @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                    <td>
+                        <a id='openUpdateModal' class='btn btn-warning updateBtn'>
+                            <i class="fas fa-edit"></i>Update
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger delete" >
+                            <i class="fas fa-trash"></i>Delete
+                        </a>
+                    </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h3>No Items Found!!</h3>
+    </div>
+}
+
+
+<!-- Modal for updating the item table -->
+<div class="modal fade" id="itemTableModal" tabindex="-1" role="dialog" aria-labelledby="itemTableModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modalTitle" id="itemTableModalLabel1"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- Same item table structure as displayed on the page -->
+                <div id="itemTableDivModal">
+                    <table class="table table-bordered" id="itemTableModalContent">
+                        <thead>
+                            <tr>
+                                <th>ItmCod</th>
+                                <th>ItmNam</th>
+                                <th>ItmPrc</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                        <!-- Table content will be populated dynamically here -->
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary closeModel" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary save" data-dismiss="modal">Save</button>
+                <!-- You can add a Save button here if needed -->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal For Confirmation message when deleted -->
+<div class="modal" tabindex="-1" id="deleteConfirmationModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Confirmation</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure you want to delete this item?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="cancelDeleteButton" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="confirmDeleteButton">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts
+    {
+<script>
+    $(document).ready(function () {
+        // Update button click event
+        $(document).on('click', '.updateBtn', function () {
+            // Get the closest row of the clicked button
+            var row = $(this).closest('tr').clone(); // Clone the row
+            var id = row.data("id");
+            var name = row.data("name");
+            var price = row.data("price");
+
+            // Remove the "Update" and "Delete" buttons from the cloned row
+                document.getElementById("itemTableModalLabel1").innerHTML = "Update Item";
+
+            // Append the cloned row to itemTableModelContent
+            $('#itemTableModalContent tbody').append("<tr><td><input type='text' value=' " + id + "' class='form-control id' disabled></td><td><input  class='form-control name' value='" + name + "' ></td><td><input  class='form-control price' value='" + price + "' ></td></tr>");
+
+
+            // Show the modal
+            $('#itemTableModal').modal('show');
+        });
+
+        $('.closeModel').click(function () {
+            $("#itemTableModalContent tbody").empty();
+            // Show the modal
+            $('#itemTableModal').modal('hide');
+        });
+
+        $('.save').on('click', function () {
+            var row = $('#itemTableModalContent tbody tr:first');
+
+            var id = row.find(".id").val();
+            var itmCod = row.find(".id").val();
+            var itmNam = row.find(".name").val();
+            var itmPrc = row.find(".price").val();
+
+
+
+            if (itmCod && itmNam && itmPrc) {
+                $.ajax({
+                    url: '/Item/EditItem',
+                    type: 'POST',
+                    data: {
+                        id: id,
+                        ItmCod: itmCod,
+                        ItmNam: itmNam,
+                        ItmPrc: itmPrc
+                    },
+                    success: function (data) {
+                        // Handle success response if needed
+                        console.log("Item updated successfully");
+                        console.log(data);
+
+                        $("#itemTableModalContent tbody").empty();
+                        // Show the modal
+                        $('#itemTableModal').modal('hide');
+                        window.location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        // Handle error response if needed
+                        console.error("Error updating item: ", error);
+                    }
+                });
+                } else if (itmNam && itmPrc) {
+                    $.ajax({
+                        url: '/Item/CreateItem',
+                        type: 'POST',
+                        data: {
+                            ItmNam: itmNam,
+                            ItmPrc: itmPrc
+                        },
+                        success: function (data) {
+                            if (data == "exist"){
+                                alert("Item is already exist!");
+                                $('#itemTableModal').modal('hide');
+
+                            }else{
+                                // Handle success response if needed
+                                console.log("Item Created successfully");
+
+                                $("#itemTableModalContent tbody").empty();
+                                // Show the modal
+                                $('#itemTableModal').modal('hide');
+                                location.reload();
+                            }
+                           
+                        },
+                        error: function (xhr, status, error) {
+                            // Handle error response if needed
+                            console.error("Error Creating item: ", error);
+                        }
+                    });
+            }
+        });
+
+
+
+
+        // Handle click event for "Create New Item" button
+        $('.createItem').click(function () {
+            // Show the modal
+            $('#itemTableModal').modal('show');
+
+                document.getElementById("itemTableModalLabel1").innerHTML = "Create Item";
+                $('#itemTableModalContent tbody').append('<tr><td><input type="text" class="form-control name"></td><td><input  class="form-control price" ></td></tr>');
+        });
+
+        $('#itemTableModal').on('shown.bs.modal', function (e) {
+            $('#itemTableModalContent th:contains("ItmCod")').remove();
+        });
+
+
+
+
+
+
+    });
+</script>
+
+<script>
+        $(document).ready(function () {
+            // Bind click event to delete button
+            $(document).on("click", "#itemTable .delete", function () {
+                // Get the closest row of the changed input
+                var row = $(this).closest("tr");
+                // Get data from the row
+                var itmCod = row.data("id");
+                // Show delete confirmation modal
+                $('#deleteConfirmationModal').modal('show');
+
+                // Store data for the current row in the modal's data attributes
+                $('#deleteConfirmationModal').data('row', row);
+                $('#deleteConfirmationModal').data('itmCod', itmCod);
+            });
+
+            // Bind click event to confirm delete button
+            $('#confirmDeleteButton').on('click', function () {
+                // Get data from the modal's data attributes
+                var row = $('#deleteConfirmationModal').data('row');
+                var itmCod = $('#deleteConfirmationModal').data('itmCod');
+
+                // Make AJAX call only if user confirms
+                if (itmCod) {
+                    $.ajax({
+                        url: '/Item/DeleteItem',
+                        type: 'POST',
+                        data: {
+                            ItmCod: itmCod
+                        },
+                        success: function (data) {
+                            if (data == "false"){
+                                alert("You can't delete this item because it already exist in Stock.");
+                                $('#deleteConfirmationModal').modal('hide');
+
+                            }else{
+                                // Handle success response if needed
+                                console.log("Item deleted successfully");
+                                console.log(data);
+                                $('#deleteConfirmationModal').modal('hide');
+                                row.remove();
+                            }
+                            
+                        },
+                        error: function (xhr, status, error) {
+                            // Handle error response if needed
+                            console.error("Error updating item: ", error);
+                        }
+                    });
+                }
+
+                // Close the modal after handling the confirmation
+                $('#deleteConfirmationModal').modal('hide');
+            });
+
+            // Bind click event to cancel delete button
+            $('#cancelDeleteButton').on('click', function () {
+                // If user cancels, do nothing
+                $('#deleteConfirmationModal').modal('hide');
+            });
+        });
+</script>
+}

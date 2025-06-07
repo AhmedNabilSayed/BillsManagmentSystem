@@ -1,0 +1,43 @@
+﻿@using BillsManagmentSystem.Reports;
+@model PrintPurchaseBillReport
+@{
+	Layout = null;
+}
+
+<partial name="_Libraries" />
+<iframe id="pdfIframe" style="display: none;"></iframe>
+<input id="pagePrinter" value="@Model.Parameters["FilterByBilCod"].Value" hidden />
+<script>
+    window.onload = function () {
+        var id = document.getElementById("pagePrinter").value; // Get the data-id attribute value
+        console.log("Bill ID:", id);
+        printPdf('@Url.Action("PagePrinter", "Bills")?id=' + id);
+    };
+    console.log(@Model);
+    function printPdf(url) {
+        fetch(url)
+            .then(response => response.blob()) // Convert response to blob
+            .then(blob => {
+                // Create object URL from the blob data
+                var pdfUrl = URL.createObjectURL(blob);
+
+                // Set iframe src to the object URL
+                $('#pdfIframe').attr('src', pdfUrl);
+
+                // Wait for PDF to be loaded
+                $('#pdfIframe').on('load', function () {
+                    // Trigger print dialog
+                    setTimeout(function () {
+                        $('#pdfIframe')[0].contentWindow.print();
+
+                        // Revoke the object URL to free up memory
+                        URL.revokeObjectURL(pdfUrl);
+                    }, 500); // Adjust timeout as needed
+                });
+            })  
+            .catch(error => {
+                console.error('Error fetching PDF:', error);
+                alert('Error loading PDF. Please try again.');
+            });
+    }
+</script>

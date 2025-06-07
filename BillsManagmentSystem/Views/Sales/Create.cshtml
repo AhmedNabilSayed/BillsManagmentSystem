@@ -1,0 +1,577 @@
+﻿@using BillsBLL.IReposatories;
+@using BillsManagmentSystem.ViewModels;
+
+
+@{
+	var Customer = new SelectList(ViewBag.Customer, "CustomerId", "CustomerName");
+	var Stores = new SelectList(ViewBag.Stores, "Id", "Name");
+
+	ViewData["Title"] = "Create";
+}
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>Header Invoice</h1>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-6">
+			<table class="table table-bordered">
+				<tbody>
+					<tr>
+						<th>Invoic No</th>
+						<td>
+							<input id="invoicNo" name="invoicNo" class="invoicNo form-control" value="@ViewBag.CurrentBilCod" required />
+							<span id="invoicNoError" class="text-danger"></span>
+						</td>
+					</tr>
+
+					<tr>
+						<th>Customer Name</th>
+						<td>
+							<select id="customerName" name="customerName" class="customerName form-control" asp-items="Customer" required>
+								<option selected disabled>-- Select Customer --</option>
+							</select>
+							<span id="customerNameError" class="text-danger"></span>
+						</td>
+					</tr>
+
+					<tr>
+						<th>Store Name</th>
+						<td>
+							<select id="storeName" name="storeName" class="storeName form-control" asp-items="Stores" required>
+								<option selected disabled>-- Select Store --</option>
+							</select>
+							<span id="storeNameError" class="text-danger"></span>
+						</td>
+					</tr>
+
+					<tr>
+						<th>Date</th>
+						<td>
+							<input id="dateAdded" name="dateAdded" type="datetime-local" value="@ViewBag.CurrentDate" min="ViewBag.CurrentDate" class="form-control" required />
+							<span id="dateError" class="text-danger"></span>
+						</td>
+					</tr>
+
+					<tr>
+						<th>Attach File</th>
+						<td>
+							<input id="attach" name="attach" type="file" class="attach form-control" required />
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Details Invoice</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<table id="tableHead" class="table table-bordered">
+					<thead>
+						<tr>
+							<th>Item Name</th>
+							<th>Quantity</th>
+							<th>Price</th>
+							<th>Total</th>
+							<th>Action</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr id="trrows">
+							<td class="w-25">
+								<select id="item" class="item form-control" required>
+									<option selected disabled>Select Item</option>
+								</select>
+							</td>
+
+							<td class="w-50">
+								<input id="quantity" value="1" class="quantity form-control" required />
+							</td>
+
+							<td><input id="price" class="price form-control" /></td>
+							<td><input id="total" value="0" class="total form-control" disabled /></td>
+							<td><button type="submit" id="addToCart" name="addToCart" class="btn btn-primary">Add</button></td>
+						</tr>
+					</tbody>
+				</table>
+				<div>
+					<span id="itemError" class="text-danger"></span>
+				</div>
+				<table id="tblrows" class="table table-bordered">
+				</table>
+			</div>
+
+		</div>
+
+		<div class="col-md-6">
+			<button type="submit" id="save" name="save" class="btn-lg btn-success w-100 mb-3">Save</button>
+		</div>
+
+		<div>
+
+			<label style="font-size:25px">
+				Total :
+			</label>
+			<input id="totalBill" class="totalBill" name="totalBill" value="0" disabled />
+
+			<form asp-controller="Bills" asp-action="Details">
+				<input id="detail" class="detail" name="id" value="0" hidden />
+				<button name="print" id="print" class="print" hidden>Print</button>
+			</form>
+
+
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	@*<script type="text/javascript">
+		$(document).ready(function () {
+			$(".item").change(function () {
+				var select = $(this).closest("tr").find('.price');
+				var ID = $(this).val();
+				$.getJSON("Bills/GetPrice", { itemId: ID },
+					function (data) {
+						console.log(data);
+						select.empty();
+						select.val(data);
+					}
+				);
+			});
+		});
+	</script>*@
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$(".item").change(function () {
+				var ID = $(this).val();
+				console.log(ID);
+				var select = $(this).closest("tr").find('.price');
+				var total = $(this).closest("tr").find('.total');
+				var quantity = $(this).closest("tr").find('.quantity').val();
+				$.getJSON("../../Sales/GetPrice", { itemId: ID })
+					.done(function (data) {
+						console.log(data);
+						select.empty();
+						select.val(data);
+						total.val(data * quantity);
+					})
+					.fail(function (jqXHR, textStatus, errorThrown) {
+						console.log("AJAX request failed: " + textStatus + ", " + errorThrown);
+					});
+			});
+
+			$(".quantity").change(function () {
+				var quantityD = $(this).val();
+				var priceD = parseInt($(this).parents("tr").find('.price').val());
+				var total = $(this).closest("tr").find('.total');
+
+				if (priceD && quantityD) {
+					total.val(priceD * quantityD);
+				} else {
+					total.val(0);
+				}
+			});
+
+			$(".price").change(function () {
+				var priceD = $(this).val();
+				var quantityD = parseInt($(this).parents("tr").find('.quantity').val());
+				var total = $(this).closest("tr").find('.total');
+
+				if (priceD && quantityD) {
+					total.val(priceD * quantityD);
+				} else {
+					total.val(0);
+				}
+			});
+
+
+
+			//$("#table1").on("change", ".quantity", function () {
+			//	var priceD = parseInt($(this).parents("tr").find('.price').val());
+			//	var quantityD = $(this).val();
+			//	var total = $(this).closest("tr").find('.total');
+
+
+
+			//	if(priceD && quantityD){
+			//		total.val(priceD * qun);
+			//	}
+
+			//}
+
+
+			$("#tblrows").on("change", ".item", function () {
+				var ID = $(this).val();
+				var select = $(this).closest("tr").find('.price');
+				var quantityD = parseInt($(this).parents("tr").find('.quantity').val());
+
+				var totalPrice = parseFloat($("#totalBill").val());
+
+
+				var oldPrice = select.val();
+				var total = $(this).closest("tr").find('.total');
+
+				$.getJSON("../../Sales/GetPrice", { itemId: ID }, function (data) {
+					console.log(data);
+					select.empty();
+					select.val(data);
+
+					totalPrice += parseFloat(quantityD * data - quantityD * oldPrice); // Corrected line
+					$("#totalBill").val(totalPrice.toFixed(2));
+					total.val(data * quantityD);
+				});
+			});
+
+
+			$("#tblrows").on("change", ".quantity", function () {
+				var newQuantity = $(this).val();
+				var select = parseFloat($(this).closest("tr").find('.price').val()); // Retrieve the price value
+				var total = $(this).closest("tr").find('.total');
+
+				var oldTotal = parseFloat(total.val()); // Convert the value to a float
+
+				var totalPrice = parseFloat($("#totalBill").val()); // Assuming 'totalPrice' is defined somewhere
+
+				totalPrice += (newQuantity * select) - oldTotal; // Calculate the change in total price
+
+				$("#totalBill").val(totalPrice.toFixed(2)); // Update the total price
+
+				total.val((select * newQuantity).toFixed(2)); // Update the total field
+			});
+
+			$("#tblrows").on("change", ".price", function () {
+				var newPrice = $(this).val();
+				var Quantity = parseFloat($(this).closest("tr").find('.quantity').val()); // Retrieve the price value
+				var total = $(this).closest("tr").find('.total');
+
+				var oldTotal = parseFloat(total.val()); // Convert the value to a float
+
+				var totalPrice = parseFloat($("#totalBill").val()); // Assuming 'totalPrice' is defined somewhere
+
+				totalPrice += (newPrice * Quantity) - oldTotal; // Calculate the change in total price
+
+				$("#totalBill").val(totalPrice.toFixed(2)); // Update the total price
+
+				total.val((newPrice * Quantity).toFixed(2)); // Update the total field
+			});
+
+			$("#tblrows").on("click", ".remove", function () {
+				var total = parseFloat($(this).parents("tr").find('.total').val());
+				var totalPrice = parseFloat($("#totalBill").val());
+
+				totalPrice -= parseFloat(total);
+				$("#totalBill").val(totalPrice.toFixed(2));
+				$(this).parents("tr").remove();
+			});
+		});
+	</script>
+
+
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$("#save").click(function () {
+				var listitems = [];
+				jQuery("#tblrows tr").each(function () {
+					var item = {
+						"ITMPRC": $(this).find('.price').val(),
+						"ITMQTY": $(this).find('.quantity').val(),
+						"ITMCOD": $(this).find('select.item>option:checked').val()
+					};
+					listitems.push(item);
+				});
+
+				var BILCOD = $('#invoicNo').val();
+				var CustomerId = $('#customerName').val();
+				var StoreId = $('#storeName').val();
+				var BILDAT = $('#dateAdded').val();
+				var Image = $('#attach').prop('files')[0];
+
+
+				var formData = new FormData();
+				formData.append('BILCOD', BILCOD);
+				formData.append('CustomerId', CustomerId);
+				formData.append('StoreId', StoreId);
+				formData.append('BILDAT', BILDAT);
+				formData.append('Image', Image);
+				formData.append('listproducts', JSON.stringify(listitems));
+
+
+				var invoiceNoError = document.getElementById("invoicNoError");
+				var customerNameError = document.getElementById("customerNameError");
+				var storeNameError = document.getElementById("storeNameError");
+				var dateError = document.getElementById("dateError");
+				var itemError = document.getElementById("itemError");
+
+
+				if (!BILCOD) {
+					invoiceNoError.textContent = "Invoice Number Is Required";
+				} else {
+					invoiceNoError.textContent = "";
+				}
+
+				if (!CustomerId) {
+					customerNameError.textContent = "Customer Name Is Required";
+				} else {
+					customerNameError.textContent = "";
+				}
+				if (!StoreId) {
+					storeNameError.textContent = "Store Name Is Required";
+				} else {
+					storeNameError.textContent = "";
+				}
+
+				if (!BILDAT) {
+					dateError.textContent = "Date Is Required";
+				} else {
+					dateError.textContent = "";
+				}
+
+
+
+				if (listitems.length == 0) {
+					itemError.textContent = "items Is Required";
+				}
+
+
+
+				if (!invoiceNoError.textContent && !itemError.textContent && !customerNameError.textContent && !storeNameError.textContent && !dateError.textContent && listitems.length > 0) {
+					$("#detail").val(BILCOD);
+					//$("#print").style.display = 'block';
+
+					$.ajax({
+						url: '/Sales/CreateOrder',
+						type: 'POST',
+						dataType: 'json',
+						data: formData,
+						contentType: false,
+						processData: false,
+						success: function (data) {
+							if (data) {
+								$.getJSON("../Sales/GetTotalPrice", { invoiceNo: BILCOD },
+									function (data) {
+										var select = $("#totalBill");
+										console.log(data);
+										select.empty();
+										select.val(data);
+										$("#print").removeAttr("hidden");
+									}
+								);
+								alert('! تم الحفظ بنجاح');
+							} else {
+								alert('! حدث خطأ أثناء الحفظ');
+							}
+
+						},
+						error: function (data) {
+							console.log(data);
+							alert('! حدث خطأ أثناء الحفظ');
+
+						}
+					});
+				}
+
+			});
+		});
+	</script>
+
+
+
+	<script type="text/javascript">
+
+		$(document).ready(function () {
+
+			$("#addToCart").click(function () {
+				var item = $("#item").val();
+				var itemError = document.getElementById("itemError");
+				var price = parseFloat($("#price").val());
+				var quantity = parseInt($("#quantity").val());
+				var existingRow = $("#tblrows tr").filter(function () {
+					return $(this).find('.item').val() == item;
+				});
+
+				var selectedQuantity = $("#item").find('option:selected').data('quantity');
+
+				var totalPrice = parseFloat(document.getElementById("totalBill").value);
+
+				
+
+
+				itemError.textContent = "";
+
+				if (item && price && quantity) {
+					if (existingRow.length > 0) {
+						var existingQuantity = parseInt(existingRow.find('.quantity').val());
+						var newQuantity = existingQuantity + quantity;
+						if(newQuantity <= selectedQuantity){
+							existingRow.find('.quantity').val(newQuantity);
+							existingRow.find('.total').val(newQuantity * price);
+
+							totalPrice += parseFloat(price * quantity);
+							$("#totalBill").val(totalPrice.toFixed(2));
+						}else{
+							itemError.textContent = "The maximum quantity that can be added of that item is: " + selectedQuantity;
+						}
+
+					}
+					else {
+						if(quantity <= selectedQuantity){
+							var trrow = $("#trrows").clone().removeAttr("id");
+							$('.item', trrow).val(item).addClass('item1').attr("disabled", "disabled");
+
+							$('.quantity', trrow).val(quantity).addClass('quantity1');
+
+							$('.price', trrow).val(price).addClass('price1');
+
+							$('.total', trrow).val(quantity * price).addClass('total1');
+
+
+							$("#addToCart", trrow).addClass('remove').html('delete').removeClass("btn btn-primary").addClass("btn btn-danger");
+							$("#tblrows").append(trrow);
+
+							totalPrice += parseFloat(price * quantity);
+							$("#totalBill").val(totalPrice.toFixed(2));
+						} else {
+							itemError.textContent = "The maximum quantity that can be added of that item is: " + selectedQuantity;
+						}
+
+					}
+
+					
+
+				} else {
+					itemError.textContent = "Item Is Invalid";
+				}
+
+
+			});
+
+
+
+		});
+
+
+
+	</script>
+
+	<script>
+		$(document).ready(function () {
+			var invoiceNoInput = $("#invoicNo");
+			var customerNameInput = $("#customerName");
+			var storeNameInput = $("#storeName");
+			var dateInput = $("#dateAdded");
+
+
+			invoiceNoInput.on("blur", validateInvoiceNo);
+			customerNameInput.on("blur", validateCustomerName);
+			storeNameInput.on("blur", validateStoreName);
+			dateInput.on("blur", validateDate);
+
+			function validateInvoiceNo() {
+				var invoiceNo = invoiceNoInput.val();
+				var invoicNoError = $("#invoicNoError");
+
+				if (!invoiceNo) {
+					invoicNoError.text("Invoice Number Is Required");
+				} else {
+					invoicNoError.text("");
+				}
+			}
+
+			function validateCustomerName() {
+				var customerName = customerNameInput.val();
+				var customerNameError = $("#customerNameError");
+
+				if (!customerName) {
+					customerNameError.text("Customer Name Is Required");
+				} else {
+					customerNameError.text("");
+				}
+			}
+			function validateStoreName() {
+				var storeName = storeNameInput.val();
+				var storeNameError = $("#storeNameError");
+
+				if (!storeName) {
+					customerNameError.text("store Name Is Required");
+				} else {
+					customerNameError.text("");
+				}
+			}
+
+			function validateDate() {
+				var date = dateInput.val();
+				var dateError = $("#dateError");
+
+				if (!date) {
+					dateError.text("Date Is Required");
+				} else {
+					dateError.text("");
+				}
+			}
+		});
+	</script>
+
+	<script>
+		$(document).ready(function () {
+			// Function to update items based on selected store
+			$('#storeName').change(function () {
+				var selectedStoreId = $(this).val();
+
+				// Make an AJAX call to fetch items based on the selected store
+				$.ajax({
+					url: '@Url.Action("GetItemsByStore", "Sales")',
+				type: 'GET',
+				data: { storeId: selectedStoreId },
+				success: function (response) {
+					console.log(response);
+					// Clear existing options
+					$('#item').empty();
+					// Add default disabled option
+					$('#item').append($('<option>').text('-- Select Item --').attr('disabled', 'disabled').attr('selected', 'selected'));
+
+					// Populate items dropdown with fetched items
+					$.each(response, function (index, item) {
+							$('#item').append($('<option>').text(item.Item.ItmNam).attr('value', item.Item.ItmCod).attr('data-quantity', item.ItemQuantity));
+					});
+				},
+				error: function (xhr, status, error) {
+					console.error(error);
+				}
+			});
+		});
+
+		});
+
+		$(document).ready(function () {
+			$("#tblrows").on("change", ".quantity", function () {
+				var quantityChanged = $(this).val();
+
+				var row = $(this).closest("tr");
+				var item = row.find(".item");
+
+				var quantityInStock = $("#tableHead tr").find(".item").find("option[value= '" + item.val() + "']").data('quantity');
+
+
+				var itemError = $("#itemError");
+
+				if (quantityChanged > quantityInStock) {
+					itemError.text("The maximum quantity that can be added of that item is: " + quantityInStock);
+				} else {
+					itemError.text('');
+				}
+			});
+		});
+	</script>
+
+
+}
